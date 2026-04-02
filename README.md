@@ -24,6 +24,7 @@ Create a new candidate.
   "status": "applied"
 }
 ```
+<img width="845" height="392" alt="image" src="https://github.com/user-attachments/assets/52ab8417-66e7-4c97-9277-aa1b1c7800d3" />
 
 **Response:**
 ```json
@@ -35,6 +36,9 @@ Create a new candidate.
   "status": "applied"
 }
 ```
+
+<img width="842" height="787" alt="image" src="https://github.com/user-attachments/assets/c47fbc45-1e4f-4541-85eb-740a43b8f1a8" />
+
 
 ### GET /candidates
 Get all candidates, optionally filtered by status.
@@ -54,6 +58,9 @@ Get all candidates, optionally filtered by status.
   }
 ]
 ```
+
+<img width="832" height="662" alt="image" src="https://github.com/user-attachments/assets/2d23a4a8-faa1-46f0-a0b2-eb79a536d918" />
+
 
 ### PUT /candidates/{id}/status
 Update a candidate's status.
@@ -75,6 +82,9 @@ Update a candidate's status.
   "status": "interview"
 }
 ```
+
+<img width="862" height="873" alt="image" src="https://github.com/user-attachments/assets/fda616db-5132-4de3-a42e-59cd2d9024ca" />
+
 
 ## 🛠️ Technology Stack
 
